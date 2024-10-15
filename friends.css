@@ -1,0 +1,61 @@
+h1{
+    color: tomato;
+    font-family: garamond;
+    font-size: 50px;
+}
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    background-color: black;
+    line-height: 30px;
+   
+}
+
+.r{
+    color: white;
+    font-family: lucida handwriting;
+}
+.o{
+    color: red;
+}
+.t{
+    color: yellow;
+
+}
+.y{
+    color: blue;
+}
+.para{
+    color: aquamarine;
+    font-family: georgia;
+    font-size: 20px;
+    
+}
+.rcb{
+    font-family: cursive;
+    text-align: justify;
+}
+a{
+    color: rgb(161, 242, 75);
+  background-color: transparent;
+  text-decoration: none;
+}
+img{
+    width:500px;
+    border-radius: 8px;
+}
+.tst{
+    color: red;
+    text-decoration-line: underline;
+}
+.head2{
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.head3{
+    color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hhead{
+    color: chocolate;
+}
